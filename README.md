@@ -35,7 +35,7 @@ Para las mediciones de los tiempos se requiere un FO4 en la salida del circuito,
 
 ### tsetup
 
-El tiempo de setup se mide en el momento en el que la entrada es válida antes que cambie la señal de reloj, por ejemplo, para el caso del levantamiento como se muestra en la siguiente figura. En el gráfico se observa la señal de reloj con color morado y la señal de entrada de color rojo, y justo cuando la señal de reloj va a transicionar, ya la señal de entrada está en su punto máximo de levantamiento, es decir, ya es válida, por lo que el tiempo se puede medir en ese momento. Tal y como se observa en los marcadores del gráfico, el tiempo de setup es de 143ps.
+El tiempo de setup se mide en el momento en el que la entrada es válida antes que cambie la señal de reloj, por ejemplo, para el caso del levantamiento como se muestra en la siguiente figura la señal de reloj con color morado y la señal de entrada de color rojo, y justo cuando la señal de reloj va a transicionar, ya la señal de entrada está en su punto máximo de levantamiento, es decir, ya es válida, por lo que el tiempo se puede medir en ese momento. Tal y como se observa en los marcadores del gráfico, el tiempo de setup es de 143ps.
 
 ![alt text](imagenes/tsetuprise.png)
 
