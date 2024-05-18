@@ -44,7 +44,7 @@ Los resultados que se obtuvieron se comparan con los valores del diseño origina
 
 ![alt text](imagenes/tiemposoriginales.png) 
 
-Y ahora se realiza la tabla comparativa, primerp para el tsetup y después para el thold.
+Y ahora se realizan las tablas comparativas, primero para el tsetup y después para el thold.
 
 |   |tsetup teórico(ns)|tsetup simulado(ns)|
 |---|----------|--|
