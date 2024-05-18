@@ -3,7 +3,7 @@ Esteicy Jazmín Faerron Durán - Andrew José Quirós Rodríguez
 
 ## Introducción
 
-En esta tarea se plantea caracterizar un Flip Flop estático Amo-Esclavo. Para esto se utiliza un Flip Flop predeterminado que brinda la herramienta de trabajo, a este se le denomina Flip Flop original a lo largo del documento. A este mismo se le hacen algunas modificaciones agregando inversores. A este que se moficica es al que se caracteriza obteniendo su tsetup y su thold y se comparan los resultados de los tiempos de simulación con los que brinda el Flip Flop original en la herramienta a los cuales se le denominan tiempos teóricos en este documento.
+En esta tarea se plantea caracterizar un Flip Flop estático Amo-Esclavo. Para esto se utiliza un Flip Flop predeterminado que brinda la herramienta de trabajo (a este se le denomina "Flip Flop original" a lo largo del documento) A este mismo se le hacen algunas modificaciones agregando inversores. A este que se modifica es al que se caracteriza obteniendo su tsetup y su thold y se comparan los resultados de los tiempos de simulación con los que brinda el Flip Flop original en la herramienta (a los cuales se le denominan tiempos teóricos en este documento).
 
 ## Esquemático
 
